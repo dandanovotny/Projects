@@ -1,6 +1,5 @@
 # Projects
-Všechny textury a zvuky jsou tvořeny mnou.
-
+Vítej, zde si můžeš přečíst o mých dosavadních projektech na kterých pracuji nebo které jsou hotové.
 ## First_game_project
  - Toto je moje první hratelná hra, kterou jsem vytvořil pomocí jazyka C a knihovny Raylib https://www.raylib.com/
  - Je to dungeon typ hry, která je pro 2 hráče.
