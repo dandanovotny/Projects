@@ -21,7 +21,7 @@ Vítej, zde si můžeš přečíst o mých dosavadních projektech na kterých p
    - **WireGuard VPN** - bezpečný vzdálený přístup
   
   ### Konkrétní hardware:
-   - **CPU:** - Intel Core i7-6700 3.4GHz | 4 jader / 8 vláken | LGA1151
+   - **CPU:** - Intel Core i7-6700 3.4GHz | 4 jádra / 8 vláken | LGA1151
    - **Základní deska:** - Gigabyte GA-H110M-S2H
    - **RAM:** - Kingston Fury 2x8GB 2133MHz
    - **Uložiště** - 120GB / 250GB
