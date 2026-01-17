@@ -49,11 +49,11 @@ Welcome, here you can read about my current and completed projects.
    ### Currently running services:
    - **Home Assistant** - Smart home management
    - **Minecraft Server** - Multiplayer hosting
-   - **WireGuard VPN** - Secure remoto access
+   - **WireGuard VPN** - Secure remote access
   
    ### Hardware Specs:
     - **CPU:** Intel i7-6700 @ 3.4GHz | 4 cores / 8 threads | LGA1151
     - **Motherboard:** Gigabyte GA-H110M-S2H
-    - **RAM:** Kingston Fury 2.8GB 2133MHz
+    - **RAM:** Kingston Fury 2x8GB 2133MHz
     - **Storage:** 120GB & 250GB SSDs
     - **NIC:** 1Gbe Ethernet
